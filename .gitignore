@@ -1,0 +1,9 @@
+tg-bot/
+tests/
+startup/
+.env
+__pycache__
+config.ini
+*.db
+twitch_notify_tg_bot.egg-info/
+.vscode
